@@ -25,3 +25,17 @@ pip freeze > requirements.txt
 
 ```bash
 django-admin startproject startcore .
+
+``` 
+
+# Repositorio Github 
+ 
+```bash
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin git@github.com:Romilsonlonan/Projeto-Fullstack-Backend-Django-Arpolar.git
+git push -u origin master
+
+```
