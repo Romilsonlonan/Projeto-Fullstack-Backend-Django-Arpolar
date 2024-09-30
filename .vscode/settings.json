@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:backend_app_django}/db.sqlite3",
+            "name": "colaborador",
+            "group": "colaborador.db"
+        }
+    ]
+}
